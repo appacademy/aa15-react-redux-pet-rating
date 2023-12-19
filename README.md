@@ -1,0 +1,1 @@
+# aa15-react-redux-pet-rating-temp
